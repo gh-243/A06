@@ -32,5 +32,5 @@ a:hover {
 }
 /* the styles for the footer */
 footer p {
-	  float: center;
+	  text-align: center;
 }
