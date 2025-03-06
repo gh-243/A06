@@ -23,7 +23,7 @@ main h2 {
 }
 main h3 {
 	font-size: 130%;
-	font-indent: italic;
+	font-style: italic;
 	text-indent: 30px;
 }
 
