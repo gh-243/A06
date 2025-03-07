@@ -34,6 +34,6 @@ a:hover {
 footer p {
 	  text-align: center;
 }
-em.shadow {
+.shadow {
 	text-shadow: 2px #800000;
 }
