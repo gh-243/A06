@@ -38,3 +38,6 @@ footer p {
 	color: blue;
 	text-shadow: 2px 2px #800000;
 }
+:root{
+	--global-color-1:#800000;
+}
