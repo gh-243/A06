@@ -38,7 +38,7 @@ footer p {
 	  text-align: center;
 }
 .shadow {
-	color: blue;
-	text-shadow: 2px 2px (--global-color-1);
+
+	text-shadow: 2px 2px var(--global-color-1);
 }
 
